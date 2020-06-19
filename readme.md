@@ -14,3 +14,8 @@
    > paste it in root dir
 
 3. run the server 
+
+### 3. Create database
+
+	1. Create database
+	2. Add database credentials to .env file
